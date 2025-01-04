@@ -14,6 +14,10 @@ img {
     width: 50%;
     height: auto;
 }
+#btn {
+    
+}
+
 @media (orientation: portrait) {
     img {
         width: 90%;
